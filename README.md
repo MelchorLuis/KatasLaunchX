@@ -1,2 +1,2 @@
 # KatasLaunchX
-Aquí estarán las Katas
+Aquí estarán las Katas del OnBoarding
